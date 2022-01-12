@@ -1,4 +1,4 @@
-In this project i have discussed the basics of **decision tree algorithm using titanic dataset**.\
+In this project i have discussed the basics of **decision tree algorithm using titanic dataset**.
 
 I have also tuned some  Hyperparameters just for illustration purpose
 

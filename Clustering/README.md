@@ -34,6 +34,6 @@ One of the tested solutions which lead to a good and promising result is to repe
 
 **Solution for the problem of selecting good initial estimates of the parameters:**
 
-This solution is common for almost all numerical optimization methods, it is greatly recommended and encouraged to try various initial starting points. Then select the best results among all of the results.
+This solution is common for almost all numerical optimization methods, it is highly recommended and encouraged to try various initial starting points. Then select the best results among all of the results.
 
 
